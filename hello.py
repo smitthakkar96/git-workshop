@@ -1,1 +1,3 @@
-print("hello")
+print("hello world")
+print("hi")
+print 2*4
